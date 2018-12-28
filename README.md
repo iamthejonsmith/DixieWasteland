@@ -1,2 +1,2 @@
-# Projects
-Side Projects for Customers
+# Dixie Wasteland
+Player Management app for a Fallout based LARP located in Northeast Alabama
